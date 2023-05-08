@@ -8,9 +8,9 @@
 ## Содержание проекта
 - [conftest.py - содержит фикстуры для теста](#conftest.py)
 - [settings.py - содержит импорт данных (пароля, почт) для теста](#settings.py)
-- [data_file.env - сам файл с паролями для теста](#data_file.env)
-- [test_api_reqres.py - api тесты](#test_api_reqres.py)
-- [test_web_reqres.py - web тесты](#test_web_reqres.py)
+- [data_file.env - сам файл с паролями для теста](#conftest.py)
+- [test_api_reqres.py - api тесты](#conftest.py)
+- [test_web_reqres.py - web тесты](#conftest.py)
 
 ## Источники
 В тесте также было дополнительно, вынесены данные (почта, пароли).
